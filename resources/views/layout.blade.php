@@ -15,7 +15,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <h1><a href="{{url('/')}}">MyDict</a></h1>
+                <h1><a href="{{url('/')}}">MyDict test</a></h1>
             </div>
             <div class="col-md-8">
                 <ul class="list-inline">
